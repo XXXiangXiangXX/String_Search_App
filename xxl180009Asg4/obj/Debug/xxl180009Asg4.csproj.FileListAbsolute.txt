@@ -1,0 +1,30 @@
+C:\Users\catch\source\repos\xxl180009Asg4\xxl180009Asg4\bin\Debug\xxl180009Asg4.exe.config
+C:\Users\catch\source\repos\xxl180009Asg4\xxl180009Asg4\bin\Debug\xxl180009Asg4.exe
+C:\Users\catch\source\repos\xxl180009Asg4\xxl180009Asg4\bin\Debug\xxl180009Asg4.pdb
+C:\Users\catch\source\repos\xxl180009Asg4\xxl180009Asg4\obj\Debug\xxl180009Asg4.csprojAssemblyReference.cache
+C:\Users\catch\source\repos\xxl180009Asg4\xxl180009Asg4\obj\Debug\xxl180009Asg4.Form1.resources
+C:\Users\catch\source\repos\xxl180009Asg4\xxl180009Asg4\obj\Debug\xxl180009Asg4.Properties.Resources.resources
+C:\Users\catch\source\repos\xxl180009Asg4\xxl180009Asg4\obj\Debug\xxl180009Asg4.csproj.GenerateResource.cache
+C:\Users\catch\source\repos\xxl180009Asg4\xxl180009Asg4\obj\Debug\xxl180009Asg4.csproj.CoreCompileInputs.cache
+C:\Users\catch\source\repos\xxl180009Asg4\xxl180009Asg4\obj\Debug\xxl180009Asg4.exe
+C:\Users\catch\source\repos\xxl180009Asg4\xxl180009Asg4\obj\Debug\xxl180009Asg4.pdb
+C:\Users\catch\OneDrive\VS Project\xxl180009Asg4\xxl180009Asg4\bin\Debug\xxl180009Asg4.exe.config
+C:\Users\catch\OneDrive\VS Project\xxl180009Asg4\xxl180009Asg4\bin\Debug\xxl180009Asg4.exe
+C:\Users\catch\OneDrive\VS Project\xxl180009Asg4\xxl180009Asg4\bin\Debug\xxl180009Asg4.pdb
+C:\Users\catch\OneDrive\VS Project\xxl180009Asg4\xxl180009Asg4\obj\Debug\xxl180009Asg4.csprojAssemblyReference.cache
+C:\Users\catch\OneDrive\VS Project\xxl180009Asg4\xxl180009Asg4\obj\Debug\xxl180009Asg4.Form1.resources
+C:\Users\catch\OneDrive\VS Project\xxl180009Asg4\xxl180009Asg4\obj\Debug\xxl180009Asg4.Properties.Resources.resources
+C:\Users\catch\OneDrive\VS Project\xxl180009Asg4\xxl180009Asg4\obj\Debug\xxl180009Asg4.csproj.GenerateResource.cache
+C:\Users\catch\OneDrive\VS Project\xxl180009Asg4\xxl180009Asg4\obj\Debug\xxl180009Asg4.csproj.CoreCompileInputs.cache
+C:\Users\catch\OneDrive\VS Project\xxl180009Asg4\xxl180009Asg4\obj\Debug\xxl180009Asg4.exe
+C:\Users\catch\OneDrive\VS Project\xxl180009Asg4\xxl180009Asg4\obj\Debug\xxl180009Asg4.pdb
+C:\Users\xianglin\VS Project\xxl180009Asg4\xxl180009Asg4\bin\Debug\xxl180009Asg4.exe.config
+C:\Users\xianglin\VS Project\xxl180009Asg4\xxl180009Asg4\bin\Debug\xxl180009Asg4.exe
+C:\Users\xianglin\VS Project\xxl180009Asg4\xxl180009Asg4\bin\Debug\xxl180009Asg4.pdb
+C:\Users\xianglin\VS Project\xxl180009Asg4\xxl180009Asg4\obj\Debug\xxl180009Asg4.csprojAssemblyReference.cache
+C:\Users\xianglin\VS Project\xxl180009Asg4\xxl180009Asg4\obj\Debug\xxl180009Asg4.Form1.resources
+C:\Users\xianglin\VS Project\xxl180009Asg4\xxl180009Asg4\obj\Debug\xxl180009Asg4.Properties.Resources.resources
+C:\Users\xianglin\VS Project\xxl180009Asg4\xxl180009Asg4\obj\Debug\xxl180009Asg4.csproj.GenerateResource.cache
+C:\Users\xianglin\VS Project\xxl180009Asg4\xxl180009Asg4\obj\Debug\xxl180009Asg4.csproj.CoreCompileInputs.cache
+C:\Users\xianglin\VS Project\xxl180009Asg4\xxl180009Asg4\obj\Debug\xxl180009Asg4.exe
+C:\Users\xianglin\VS Project\xxl180009Asg4\xxl180009Asg4\obj\Debug\xxl180009Asg4.pdb
